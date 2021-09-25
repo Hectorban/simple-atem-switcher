@@ -4,6 +4,7 @@
   "description": "backend for r6 atem switcher",
   "main": "dist/index.js",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",

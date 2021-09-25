@@ -1,6 +1,6 @@
-const { Atem } = require('atem-connection')
-const ioHook = require('iohook')
-const nfetch = require('node-fetch')
+import { Atem } from 'atem-connection'
+import ioHook from 'iohook'
+import nfetch from 'node-fetch'
 
 const numbersKeyRef:any = {
 	"49":  1,
